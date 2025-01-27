@@ -1,5 +1,5 @@
-<h1>👋 Hey there! I'm Prayuja Teli</h1>
-A passionate computer science graduate student at Drexel University in Philadelphia and Senior Data Analyst with 5+ years of experience in the Healthcare, IT, and Supply Chain Management industries. 
+<h1>👋 Hey there! I'm Chinmay Teli</h1>
+I’m a finance and banking professional with hands-on experience in transaction management, financial reporting, and compliance. Currently working as a Cashier at The Gadhinglaj Urban Co-Operative Bank Ltd., I’ve streamlined processes to improve efficiency and accuracy. I also assist a Chartered Accountant in financial statement preparation, tax filings, and client advisory. With a strong academic background in Commerce and proficiency in banking software and Microsoft Office, I’m passionate about leveraging my skills to drive growth and deliver impactful financial solutions 
 
 <p align="middle">
 
